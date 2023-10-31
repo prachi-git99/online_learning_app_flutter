@@ -1,16 +1,4 @@
 # online_learninig_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Flutter project: 
+Its a Online Learning mobile application for android and ios for edtechs in flutter and firebase . In which we have used BLOC for state management , google authentication using firebase , live video streaming and recorded sessions .
